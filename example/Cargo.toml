@@ -1,0 +1,7 @@
+[package]
+name = "use-belt"
+version = "0.1.0"
+authors = ["Marcin Jekot <marcin@jekot.net>"]
+
+[dependencies]
+belt = { path = ".." }

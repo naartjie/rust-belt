@@ -1,0 +1,6 @@
+[package]
+name = "belt"
+version = "0.0.1"
+authors = ["Marcin Jekot <marcin@jekot.net>"]
+
+[dependencies]

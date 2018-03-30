@@ -2,5 +2,7 @@
 name = "belt"
 version = "0.0.1"
 authors = ["Marcin Jekot <marcin@jekot.net>"]
+description = "a toolbelt of utils for development"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
